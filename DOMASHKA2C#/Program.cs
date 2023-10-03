@@ -4,7 +4,6 @@ class Program
 {
     static void Main()
     {
-        // Игра "Угадай число"
         Random random = new Random();
         int randomNumber = random.Next(0, 101);
 
